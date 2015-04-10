@@ -3,6 +3,6 @@ angular.module('SimpleSignupForm', [])
 	return {
 		restrict: 'E',
 		transclude: true,
-		templateUrl: 'signup-template.html',
+		templateUrl: 'signup-template.html'
 	}
 });
